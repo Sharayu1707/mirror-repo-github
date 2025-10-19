@@ -90,13 +90,8 @@ Whenever you push code to GitLab, it’s automatically reflected in GitHub.
 
 ---
 
-## 🧾 Example Commands (Manual Way)
-```bash
-# Clone from GitLab
-git clone git@gitlab.com:username/project.git
 
-# Add GitHub remote
-git remote add github git@github.com:username/project.git
+🧩 Conclusion
 
-# Push to GitHub
-git push github main
+Mirroring a repository helps keep a backup or a copy of the original project in sync.
+It makes collaboration easier, ensures data safety, and allows working with the same code on multiple platforms without affecting the original repository.
